@@ -1,0 +1,48 @@
+html,
+button,
+input,
+textarea,
+select {
+  font-family: $ff--base;
+  line-height: $lh--base;
+  font-size: $fz--base;
+}
+
+input,
+textarea,
+select {
+  width: 100%;
+  display: block;
+  border: 1px solid $c--black;
+  padding: 0.5em;
+}
+
+label {
+  display: block;
+}
+
+.item-header {
+  font-size: $fz--lg;
+  font-weight: $fw--bold;
+}
+
+.section-header {
+  font-size: $fz--xl;
+  font-weight: $fw--bold;
+}
+
+button {
+  cursor: pointer;
+  padding: 0;
+  border: 0;
+  box-shadow: none;
+  background-color: transparent;
+}
+
+.button {
+  background-color: $c--orange;
+  padding: 0.7em;
+  font-weight: $fw--bold;
+  font-size: $fz--lg;
+  color: $c--white;
+}

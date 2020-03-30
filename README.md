@@ -1,4 +1,11 @@
-# Codenames
+# Vue / Firebase Starter
+
+## Comes with
+
+* Vue
+* Vuex
+* Vue Router
+* Firebase
 
 ## Project setup
 ```
