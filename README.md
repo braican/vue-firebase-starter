@@ -1,4 +1,4 @@
-# codenames
+# Codenames
 
 ## Project setup
 ```
